@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AllExtractors</comment>
+<entry key="0.info.2">512</entry>
+<entry key="1">simple</entry>
+<entry key="0.info.1">net.semanticmetadata.lire.aggregators.BOVW</entry>
+<entry key="0.info.0">null</entry>
+<entry key="0">info</entry>
+<entry key="1.detector">detCVSURF</entry>
+<entry key="1.codebook.1">SIMPLEdetCVSURFCEDD512</entry>
+<entry key="1.extractor">net.semanticmetadata.lire.imageanalysis.features.global.CEDD</entry>
+</properties>

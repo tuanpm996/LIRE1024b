@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a5fdd7-8f43-44d6-939f-c53c5232c6d8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LIRE" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1529675011">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="gradle" value="2" />
+          <entry key="gradlew" value="1" />
+          <entry key="java" value="96" />
+          <entry key="md" value="5" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="96" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="java" value="137" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="137" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericFastImageSearcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3345">
+              <caret line="283" column="21" selection-start-line="283" selection-start-column="21" selection-end-line="283" selection-end-column="21" />
+              <folding>
+                <element signature="e#16598#16599#0" expanded="true" />
+                <element signature="e#16635#16636#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ExtractorItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+              <folding>
+                <element signature="e#6276#6277#0" expanded="true" />
+                <element signature="e#6313#6314#0" expanded="true" />
+                <element signature="e#6445#6446#0" expanded="true" />
+                <element signature="e#6483#6484#0" expanded="true" />
+                <element signature="e#6551#6552#0" expanded="true" />
+                <element signature="e#6590#6591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="88" selection-start-line="88" selection-end-line="89" />
+              <folding>
+                <element signature="e#4054#4055#0" expanded="true" />
+                <element signature="e#4099#4100#0" expanded="true" />
+                <element signature="e#5863#5864#0" expanded="true" />
+                <element signature="e#5905#5906#0" expanded="true" />
+                <element signature="e#12561#12562#0" expanded="true" />
+                <element signature="e#12593#12594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/BitSamplingImageSearcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ParallelIndexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16440">
+              <caret line="1166" column="95" selection-start-line="1166" selection-start-column="88" selection-end-line="1166" selection-end-column="95" />
+              <folding>
+                <element signature="e#59942#59943#0" expanded="true" />
+                <element signature="e#59989#59990#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/KMeans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="204" selection-start-line="204" selection-end-line="204" />
+              <folding>
+                <element signature="e#2464#2465#0" expanded="true" />
+                <element signature="e#2510#2511#0" expanded="true" />
+                <element signature="e#7316#7317#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/semanticmetadata/lire/TestProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4440">
+              <caret line="341" column="64" selection-start-line="341" selection-start-column="64" selection-end-line="341" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/imageanalysis/bovw/BOVWBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="222" column="48" selection-start-line="222" selection-start-column="48" selection-end-line="222" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/imageanalysis/bovw/LocalFeatureHistogramBuilderKmeansPlusPlus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1665">
+              <caret line="175" column="45" selection-start-line="175" selection-start-column="45" selection-end-line="175" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+      <find>2.4.</find>
+      <find>opencv_java2411</find>
+      <find>2.4.11</find>
+      <find>opencv_java</find>
+      <find>opencv</find>
+      <find>lca</find>
+      <find>search</find>
+      <find>sift</find>
+      <find>CvSiftEx</find>
+      <find>ExtractorClass</find>
+      <find>already exists and will be overwritten!!</find>
+      <find>createVectorRepresentation</find>
+      <find>aggregator</find>
+      <find>getFe</find>
+      <find>search(</find>
+      <find>Analyzed</find>
+      <find>Simple using</find>
+      <find>numOfDocsForCodebooks</find>
+      <find>Number of local features</find>
+      <find>hashing</find>
+      <find>BitSamplingImageSearcher</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.2.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="LIRE" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="LIRE" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'LIRE'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'LIRE'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="getDeps" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'LIRE'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'LIRE'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates an HTML report about your library dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="htmlDependencyReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a report about your tasks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="taskReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'LIRE'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a report about your properties." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="propertyReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'LIRE'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'LIRE'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'LIRE'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a report about your project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projectReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a report about your library dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'LIRE'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6092847590000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3416697771" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="3826364912" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2944799702" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="LIRE" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/task-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-jvm-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-installation-beacon-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-model-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-wrapper-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-launcher-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-ui-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-open-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-logging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-cli-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-messaging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-script-kotlin-0.4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-model-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-docs-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-tooling-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-base-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-resources-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-base-services-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-process-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-osgi-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-s3-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-antlr-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-java-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-jetty-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugins-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-test-kit-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-publish-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-build-comparison-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-announce-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugin-development-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-build-init-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-maven-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ivy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-javascript-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-sftp-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-diagnostics-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-code-quality-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-tooling-api-builders-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-signing-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-composite-builds-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ear-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-reporting-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-jacoco-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-task-cache-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugin-use-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-dependency-management-3.2.1.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/legacy/test/net/semanticmetadata/lire/imageanalysis/sift/TestLocalFeatureHistogram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSurfExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LIRE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lire-1.0b4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="LIRE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lire-1.0b4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LIRE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lire-1.0b4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LIRE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lire-1.0b4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="LIRE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lire-1.0b4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537250087134" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LIRE_main" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/images/ $USER_HOME$/Desktop/vay_do.jpeg" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=/usr/share/OpenCV/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a5fdd7-8f43-44d6-939f-c53c5232c6d8" name="Default Changelist" comment="" />
+      <created>1537154404354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537154404354</updated>
+      <workItem from="1537154406940" duration="6462000" />
+      <workItem from="1537168477114" duration="8994000" />
+      <workItem from="1537198250746" duration="3608000" />
+      <workItem from="1537236410545" duration="58000" />
+      <workItem from="1537249333626" duration="1288000" />
+      <workItem from="1537250682884" duration="1408000" />
+      <workItem from="1537261494669" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22454000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20490928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4014675" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.407767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31551364" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32901832" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32901832" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32977587" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27854857" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32901832" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32901832" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.23300971" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericFastImageSearcher.java</url>
+          <line>344</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericFastImageSearcher.java</url>
+          <line>507</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericFastImageSearcher.java</url>
+          <line>530</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/imageanalysis/bovw/BOVWBuilder.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/imageanalysis/bovw/LocalFeatureHistogramBuilderKmeansPlusPlus.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ParallelIndexer.java</url>
+          <line>1360</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/DocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/impl/CvSiftDocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/test/net/semanticmetadata/lire/imageanalysis/sift/TestLocalFeatureHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeatureExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/impl/CvSurfDocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/ImageSearcherFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/DocumentBuilderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/AbstractDocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSiftExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSurfFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/6.3.0/bd81e220457cb262b9904e98cce8436687b66a5a/lucene-core-6.3.0-sources.jar!/org/apache/lucene/document/FieldType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/6.3.0/bd81e220457cb262b9904e98cce8436687b66a5a/lucene-core-6.3.0-sources.jar!/org/apache/lucene/document/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/6.3.0/bd81e220457cb262b9904e98cce8436687b66a5a/lucene-core-6.3.0-sources.jar!/org/apache/lucene/document/StringField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/6.3.0/bd81e220457cb262b9904e98cce8436687b66a5a/lucene-core-6.3.0-sources.jar!/org/apache/lucene/document/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/ParallelKMeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="395" column="13" selection-start-line="395" selection-start-column="13" selection-end-line="395" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/FeatureVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/opencv-2411.jar!/org/opencv/features2d/FeatureDetector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/opencv-2411.jar!/org/opencv/features2d/DescriptorExtractor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSurfExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/CEDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="512" selection-start-line="512" selection-end-line="512" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="462" selection-start-line="462" selection-end-line="462" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/SimpleDocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7710">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="98" column="14" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/MetricsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="849" selection-start-line="849" selection-end-line="849" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/ImageSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="77" column="2" lean-forward="true" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/Aggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/AbstractAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/BOVW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LireFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/Extractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-8u181-linux-x64/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/AbstractLocalDocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="74" column="97" selection-start-line="74" selection-start-column="97" selection-end-line="74" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericFastImageSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="283" column="21" selection-start-line="283" selection-start-column="21" selection-end-line="283" selection-end-column="21" />
+          <folding>
+            <element signature="e#16598#16599#0" expanded="true" />
+            <element signature="e#16635#16636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ExtractorItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="e#6276#6277#0" expanded="true" />
+            <element signature="e#6313#6314#0" expanded="true" />
+            <element signature="e#6445#6446#0" expanded="true" />
+            <element signature="e#6483#6484#0" expanded="true" />
+            <element signature="e#6551#6552#0" expanded="true" />
+            <element signature="e#6590#6591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="88" selection-start-line="88" selection-end-line="89" />
+          <folding>
+            <element signature="e#4054#4055#0" expanded="true" />
+            <element signature="e#4099#4100#0" expanded="true" />
+            <element signature="e#5863#5864#0" expanded="true" />
+            <element signature="e#5905#5906#0" expanded="true" />
+            <element signature="e#12561#12562#0" expanded="true" />
+            <element signature="e#12593#12594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/BitSamplingImageSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ParallelIndexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16440">
+          <caret line="1166" column="95" selection-start-line="1166" selection-start-column="88" selection-end-line="1166" selection-end-column="95" />
+          <folding>
+            <element signature="e#59942#59943#0" expanded="true" />
+            <element signature="e#59989#59990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/KMeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+          <folding>
+            <element signature="e#2464#2465#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+            <element signature="e#7316#7317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/semanticmetadata/lire/TestProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="341" column="64" selection-start-line="341" selection-start-column="64" selection-end-line="341" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/imageanalysis/bovw/BOVWBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="222" column="48" selection-start-line="222" selection-start-column="48" selection-end-line="222" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/legacy/main/net/semanticmetadata/lire/imageanalysis/bovw/LocalFeatureHistogramBuilderKmeansPlusPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="175" column="45" selection-start-line="175" selection-start-column="45" selection-end-line="175" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

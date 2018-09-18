@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LIRE.iml" filepath="$PROJECT_DIR$/.idea/modules/LIRE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LIRE_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LIRE_main.iml" group="LIRE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LIRE_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LIRE_test.iml" group="LIRE" />
+    </modules>
+  </component>
+</project>
